@@ -16,6 +16,7 @@
   },
   "dependencies": {
     "adapt-authoring-core": "git+https://github.com/adapt-security/adapt-authoring-core.git",
-    "fs-extra": "8.1.0"
+    "fs-extra": "^8.1.0",
+    "move-file": "^1.2.0"
   }
 }
